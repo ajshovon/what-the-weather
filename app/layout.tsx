@@ -7,7 +7,7 @@ import { Toaster } from "@/components/ui/toaster";
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Weather Forecast App',
+  title: 'What The Weather',
   description: 'Check weather forecasts for any location',
 };
 

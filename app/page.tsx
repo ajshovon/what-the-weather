@@ -117,7 +117,7 @@ export default function Home() {
               </div>
 
               <div className="text-center space-y-4 max-w-2xl mx-auto">
-                <h1 className="text-4xl md:text-5xl font-bold text-blue-900 dark:text-blue-100">Weather Forecast</h1>
+                <h1 className="text-4xl md:text-5xl font-bold text-blue-900 dark:text-blue-100">What The Weather</h1>
                 <p className="text-lg text-blue-800 dark:text-blue-200">Get accurate weather forecasts for any location worldwide</p>
               </div>
               <div className="w-full max-w-xl">
