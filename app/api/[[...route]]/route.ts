@@ -24,7 +24,6 @@ app.get('/location/:query', async (c) => {
   const response = await fetch(
     `http://api.openweathermap.org/geo/1.0/direct?q=${query}&limit=5&appid=${WEATHER_API_KEY}`
   );
-  console.log("ok")
   const data = await response.json();
   return c.json(data);
 });
