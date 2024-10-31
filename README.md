@@ -1,3 +1,3 @@
-# sb1-82rnex
+# WTW - What The Weather
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/jakanaka/sb1-82rnex)
+## Simple weather app made with Next.js, Hono.js
